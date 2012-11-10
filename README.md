@@ -1,4 +1,4 @@
 py_campaign
 ===========
 
-An emailing campaign manager writen in python
+An emailing campaign manager written in python
